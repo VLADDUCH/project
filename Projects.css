@@ -1,0 +1,57 @@
+/* General styles */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+/* Map styles */
+#map {
+    height: 400px;
+    width: 100%;
+    margin: 50px 0;
+}
+
+/* Projects list styles */
+.project {
+    margin: 50px 0;
+}
+
+.project h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.project p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Form styles */
+form {
+    margin: 50px 0;
+}
+
+form label {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+form input, form textarea, form select {
+    padding: 10px;
+    font-size: 18px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #006600;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

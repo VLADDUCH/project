@@ -1,0 +1,37 @@
+/* General styles */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+    margin: 20px 0;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+input {
+    font-size: 18px;
+    padding: 5px;
+}
+
+select {
+    font-size: 18px;
+    padding: 5px;
+}
+
+button {
+    font-size: 18px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}

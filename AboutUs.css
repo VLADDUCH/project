@@ -1,0 +1,26 @@
+/* General styles */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+/* Design styles */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* NLP styles */
+p:first-of-type {
+    color: #006600;
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+    margin: 20px 0;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+    display: block;
+}
+
+input {
+    font-size: 18px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 18px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
